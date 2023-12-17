@@ -1,6 +1,6 @@
 # My Robot CLI for Fast Utilities
 
-<p align="center"><a href="https://ideacat.ro" target="_blank"><img src=".github/assets/images/robot_cli_logo.svg" width="400" alt="Robot CLI Logo"></a></p>
+<p align="center"><a href="https://ideacat.ro" target="_blank"><img src="https://raw.githubusercontent.com/ideacatlab/my_robot_cli/main/.github/assets/images/robot_cli_logo.svg.svg" width="400" alt="Robot CLI Logo"></a></p>
 
 ## About Robot CLI
 
