@@ -126,6 +126,7 @@ Feel free to replace `/path/to/robot.py` with the actual path to your `robot.py`
 - [x] mysql list databases;
 - [] list datatables of certain database;
 - [] delete database.
+- [x] refactor into modules.
 
 ## Security Vulnerabilities
 
